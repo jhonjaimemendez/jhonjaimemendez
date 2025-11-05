@@ -44,3 +44,51 @@ A lo largo de mi trayectoria he trabajado en múltiples dominios técnicos que c
 - **Inteligencia artificial y NLP:** integración de modelos y herramientas de <strong>IA aplicada</strong> (como <em>DALL·E</em>, <em>Textract</em> y el proyecto <em>TextFlow</em>) para automatizar análisis y generación de contenido.  
 - **Observabilidad y DevOps:** instrumentación de métricas, trazas y logs mediante <strong>Prometheus</strong>, <strong>Grafana</strong> y <strong>ELK Stack</strong>; despliegue continuo con <strong>Docker</strong> y orquestación en <strong>Kubernetes</strong> bajo prácticas <strong>CI/CD</strong>.  
 - **Mentoría técnica y docencia:** formación de equipos y transferencia de conocimiento en <strong>arquitecturas de software</strong>, <strong>sistemas distribuidos</strong> e <strong>integración de datos</strong>.
+
+
+## ⚙️ Stack tecnológico
+
+<p align="justify">
+Este stack refleja las principales tecnologías y herramientas con las que trabajo en el desarrollo, integración, despliegue y observabilidad de soluciones distribuidas y escalables.
+</p>
+
+### 🔹 Backend & Lenguajes
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🔹 Integración & Middleware
+![TIBCO](https://img.shields.io/badge/TIBCO-1C75BC?style=for-the-badge&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-FF6D00?style=for-the-badge&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🔹 Datos & ETL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-4B8BBE?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMiA3aDZ2MkgydjJMMCA4bDIgMyIvPjxwYXRoIGQ9Ik0xNCA5SDhWN2g2VjVMMTYgN2wtMi0yVjV6Ii8+PC9zdmc+)
+
+### 🔹 Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FF4F00?style=for-the-badge&logo=serverless&logoColor=white)
+
+### 🔹 Observabilidad & Métricas
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+
+### 🔹 Herramientas & Colaboración
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
