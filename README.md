@@ -12,7 +12,12 @@ Mi trabajo se ha enfocado en el <strong>diseño de arquitecturas limpias</strong
 He liderado y desarrollado proyectos de <strong>integración empresarial</strong>, <strong>backend</strong>, <strong>ETL</strong>, <strong>automatización</strong> y <strong>data analytics</strong> para sectores como <strong>seguros, financiero, gubernamental, educativo y de salud pública</strong>, colaborando con equipos en <strong>México, Estados Unidos, Ecuador, Australia, Puerto Rico y Singapur</strong>.
 </p>
 
-### 🧩 Algunos tipos de proyectos que he desarrollado y/o desplegado
+<p align="justify">
+Me considero una persona que se esmera en resolver problemas, aprende con rapidez, disfruta los retos y mantiene una actitud didáctica y colaborativa en cada proyecto
+</p>
+
+
+## 🧩 Algunos tipos de proyectos que he desarrollado y/o desplegado
 - Integraciones corporativas y orquestación de servicios con <strong>TIBCO BW/BE</strong>, <strong>Talend</strong>, <strong>Kafka</strong> y <strong>REST APIs</strong>.  
 - Desarrollo de microservicios y APIs backend con <strong>Java / Spring Boot</strong>, <strong>PostgreSQL</strong> y <strong>Docker</strong>.  
 - Procesamiento de datos y automatización documental con <strong>AWS Lambda</strong>, <strong>Textract</strong> y <strong>Python</strong>.  
@@ -25,3 +30,17 @@ Soy un profesional que disfruta <strong>construir soluciones funcionales, docume
 Mi propósito es crear tecnología que conecte personas, datos y procesos de forma eficiente, confiable y comprensible.
 </p>
 
+
+## 🧩 Áreas de especialidad
+
+<p align="justify">
+A lo largo de mi trayectoria he trabajado en múltiples dominios técnicos que combinan desarrollo, integración, automatización y analítica. Estas son las áreas donde concentro mayor experiencia y aporto valor estratégico y operativo:
+</p>
+
+- **Backend y microservicios:** desarrollo de APIs REST/JSON con <strong>Java / Spring Boot</strong>, diseño modular, control de versiones y despliegue en contenedores.  
+- **Integración empresarial:** implementación de flujos y orquestaciones con <strong>TIBCO BW/BE</strong>, <strong>Talend</strong> y <strong>Kafka</strong>; consumo y exposición de servicios entre sistemas heterogéneos.  
+- **Cloud & Serverless:** construcción de soluciones en <strong>AWS Lambda</strong>, <strong>Textract</strong>, <strong>EC2</strong>, <strong>RDS</strong> y despliegue de aplicaciones mediante <strong>Docker</strong> y <strong>Kubernetes</strong> en entornos híbridos y escalables.  
+- **Ingeniería de datos y analítica:** diseño de <strong>Data Warehouses</strong>, procesos <strong>ETL</strong> y tableros de control con <strong>Power BI</strong> y <strong>Grafana</strong> orientados a la toma de decisiones.  
+- **Inteligencia artificial y NLP:** integración de modelos y herramientas de <strong>IA aplicada</strong> (como <em>DALL·E</em>, <em>Textract</em> y el proyecto <em>TextFlow</em>) para automatizar análisis y generación de contenido.  
+- **Observabilidad y DevOps:** instrumentación de métricas, trazas y logs mediante <strong>Prometheus</strong>, <strong>Grafana</strong> y <strong>ELK Stack</strong>; despliegue continuo con <strong>Docker</strong> y orquestación en <strong>Kubernetes</strong> bajo prácticas <strong>CI/CD</strong>.  
+- **Mentoría técnica y docencia:** formación de equipos y transferencia de conocimiento en <strong>arquitecturas de software</strong>, <strong>sistemas distribuidos</strong> e <strong>integración de datos</strong>.
