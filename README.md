@@ -17,6 +17,8 @@ Me considero una persona que se esmera en resolver problemas, aprende con rapide
 </p>
 
 
+
+
 ## 🧩 Algunos tipos de proyectos que he desarrollado y/o desplegado
 - Integraciones corporativas y orquestación de servicios con <strong>TIBCO BW/BE</strong>, <strong>Talend</strong>, <strong>Kafka</strong> y <strong>REST APIs</strong>.  
 - Desarrollo de microservicios y APIs backend con <strong>Java / Spring Boot</strong>, <strong>PostgreSQL</strong> y <strong>Docker</strong>.  
@@ -29,6 +31,8 @@ Me considero una persona que se esmera en resolver problemas, aprende con rapide
 Soy un profesional que disfruta <strong>construir soluciones funcionales, documentadas y medibles</strong>, manteniendo un equilibrio entre <strong>código, arquitectura y enseñanza</strong>.  
 Mi propósito es crear tecnología que conecte personas, datos y procesos de forma eficiente, confiable y comprensible.
 </p>
+
+
 
 
 ## 🧩 Áreas de especialidad
@@ -45,6 +49,8 @@ A lo largo de mi trayectoria he trabajado en múltiples dominios técnicos que c
   Implementación de <strong>métricas técnicas y operativas</strong> usando <strong>Prometheus</strong> y <strong>Grafana</strong> para observabilidad y monitoreo de servicios, uniendo analítica de negocio con monitoreo en tiempo real.  
 - **Observabilidad y DevOps:** trazabilidad, logs y despliegue continuo con <strong>Prometheus</strong>, <strong>Grafana</strong>, <strong>ELK Stack</strong> y orquestación en <strong>Kubernetes</strong> bajo prácticas <strong>CI/CD</strong>.  
 - **Mentoría técnica y docencia:** formación de equipos y transferencia de conocimiento en <strong>arquitecturas de software</strong>, <strong>sistemas distribuidos</strong> e <strong>integración de datos</strong>.
+
+
 
 
 ## ⚙️ Stack tecnológico
@@ -95,8 +101,14 @@ Este stack refleja las principales tecnologías y herramientas con las que traba
 
 ### 🔹 Testing & Automatización
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🔹 APIs & Plataformas Externas
+![Meta Graph API](https://img.shields.io/badge/Meta%20Graph%20API-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![LinkedIn API](https://img.shields.io/badge/LinkedIn%20API-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ### 🔹 Automatización & IA
 ![N8N](https://img.shields.io/badge/N8N-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
@@ -116,3 +128,26 @@ Este stack refleja las principales tecnologías y herramientas con las que traba
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+
+## 📂 Proyectos representativos
+
+<p align="justify">
+Estos proyectos reflejan mi experiencia en integración empresarial, inteligencia artificial aplicada, analítica de datos, automatización de procesos y docencia.  
+Por motivos de confidencialidad, todos los desarrollos son de carácter <strong>privado</strong> o se encuentran bajo acuerdos de confidencialidad (NDA), por lo que se presentan únicamente con fines informativos.
+</p>
+
+| Proyecto | Descripción | Rol | Stack principal | Estado |
+|-----------|--------------|------|------------------|---------|
+| **LEADS México** | Plataforma de analítica y visualización de salud pública inspirada en el Atlas of Economic Complexity. Desarrollada para consolidar información sobre gasto público, mortalidad materna y protección financiera, integrando un modelo de datos unificado y dashboards interactivos. Incluye servicios backend con <strong>Spring Boot</strong>, <strong>PostgreSQL</strong> y visualizaciones con <strong>D3.js</strong> y <strong>Grafana</strong>. | Arquitecto de software | Spring Boot, React, D3.js, PostgreSQL, Grafana, Docker | Privado |
+| **Portal de Artículos Científicos** | Plataforma backend para búsqueda y analítica de artículos científicos con indexación semántica y registro de métricas. Implementa <strong>Spring Boot 3</strong> con consultas avanzadas (<strong>FTS</strong>, <strong>trigramas</strong>), monitoreo de eventos y métricas mediante <strong>Prometheus</strong> y <strong>Micrometer</strong>. Integra dashboards en <strong>Grafana</strong> y un modelo de observabilidad completo para análisis de rendimiento y tráfico. Proyecto desarrollado como entorno privado de investigación académica. | Arquitecto y desarrollador backend | Spring Boot 3, PostgreSQL, Prometheus, Grafana, Docker | Privado |
+| **AXA México – Data Integration & Governance** | Consultoría técnica para integración y gobierno de datos. Implementación de procesos ETL, migración de pipelines a AWS y gobierno de calidad de datos. | Consultor e integrador | Talend, PostgreSQL, AWS, Docker | Privado |
+| **Seguros Potosí (México) – Asesoría TIBCO** | Asesoría técnica y arquitectónica para la adopción de <strong>TIBCO BusinessWorks</strong> y prácticas de integración empresarial. Incluyó revisión de flujos, buenas prácticas de despliegue y entrenamiento técnico del equipo local. | Consultor y asesor técnico | TIBCO BW/BE, Docker, Linux | Privado |
+| **TextFlow AI** | Plataforma de procesamiento de texto con IA generativa para clasificación, resumen y análisis semántico. Desarrollada con <strong>N8N</strong>, <strong>Textract</strong> y <strong>OpenAI</strong> (modelos <strong>DALL·E 3</strong> y <strong>LLMs</strong>), orientada a la automatización de flujo documental. | Arquitecto e integrador | N8N, AWS Textract, OpenAI, DALL·E 3, AWS Lambda | Privado |
+| **Gobernación de Sucre – DSS Ambiental** | Sistema de soporte a decisiones ambientales y sociales con integración de datos geográficos, modelos predictivos y dashboards. Diseñado para entidades territoriales con enfoque en sostenibilidad y datos abiertos. | Líder técnico | Java, PostgreSQL, Power BI, Talend, Grafana | Privado |
+| **Proyecto AWS Textract Serverless** | Flujo serverless para extracción de datos de documentos PDF mediante OCR y almacenamiento automatizado en AWS. Incluye integración con <strong>S3</strong> y procesamiento de resultados mediante <strong>Lambda</strong> y <strong>Textract</strong>. | Arquitecto e implementador | AWS Lambda, Textract, S3, Python | Privado |
+| **Scraper Reports & Credit Data API** | Sistema automatizado para lectura y clasificación de reportes crediticios (PDF/Excel) con IA y scraping, usando <strong>Lambda</strong>, <strong>Selenium</strong> y <strong>Textract</strong> para integrar flujos con pipelines de datos. | Desarrollador e integrador | Java, AWS Lambda, Selenium, Textract, Talend | Privado |
+| **BI Escolar – Deserción Educativa** | Plataforma analítica para monitoreo y predicción de deserción escolar con indicadores educativos y sociales. Incluye ETL con <strong>Talend</strong> y visualización en <strong>Power BI</strong>. | Consultor técnico | Talend, Power BI, PostgreSQL, AWS | Privado |
+| **SIPY – Sistema de Información Pública y Ciudadana** | Sistema de información para integración de indicadores sociales y de salud, con dashboards y modelos de análisis para toma de decisiones. | Arquitecto de integración | Java, PostgreSQL, Power BI, Docker | Privado |
+| **Proyectos académicos y de docencia** | Diseño de arquitecturas, laboratorios y talleres prácticos sobre integración, sistemas distribuidos, cloud computing y observabilidad. Enfocado en la transferencia de conocimiento y el desarrollo de capacidades técnicas en equipos de ingeniería. | Docente y mentor | TIBCO, Kafka, Docker, Kubernetes, Spring Boot | Privado |
