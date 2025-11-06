@@ -151,3 +151,29 @@ Por motivos de confidencialidad, todos los desarrollos son de carácter <strong>
 | **BI Escolar – Deserción Educativa** | Plataforma analítica para monitoreo y predicción de deserción escolar con indicadores educativos y sociales. Incluye ETL con <strong>Talend</strong> y visualización en <strong>Power BI</strong>. | Consultor técnico | Talend, Power BI, PostgreSQL, AWS | Privado |
 | **SIPY – Sistema de Información Pública y Ciudadana** | Sistema de información para integración de indicadores sociales y de salud, con dashboards y modelos de análisis para toma de decisiones. | Arquitecto de integración | Java, PostgreSQL, Power BI, Docker | Privado |
 | **Proyectos académicos y de docencia** | Diseño de arquitecturas, laboratorios y talleres prácticos sobre integración, sistemas distribuidos, cloud computing y observabilidad. Enfocado en la transferencia de conocimiento y el desarrollo de capacidades técnicas en equipos de ingeniería. | Docente y mentor | TIBCO, Kafka, Docker, Kubernetes, Spring Boot | Privado |
+
+---
+
+## 🤝 Contacto y presencia profesional
+
+<p align="justify">
+Si deseas colaborar, compartir ideas o conocer más sobre mis proyectos, puedes contactarme a través de los siguientes canales profesionales:
+</p>
+
+📞 **Teléfono:** [+57 312 806 2199](tel:+573128062199)  
+📧 **Correo:** [jhonjaimemendezalandete@gmail.com](mailto:jhonjaimemendezalandete@gmail.com)  
+💻 **GitHub:** [github.com/jhonjaimemendez](https://github.com/jhonjaimemendez)  
+🔗 **LinkedIn:** [linkedin.com/in/jhon-jaime-mendez-alandete-257275268](https://www.linkedin.com/in/jhon-jaime-mendez-alandete-257275268/)  
+💼 **Upwork:** [Perfil profesional en Upwork](https://www.upwork.com/freelancers/~015e6b81525298d181)  
+
+---
+
+<p align="justify">
+Cada proyecto combina ejecución técnica, arquitectura y transferencia de conocimiento, con el propósito de crear tecnología que conecte personas, datos y decisiones.  
+</p>
+
+<p align="center">
+⭐ Si alguno de mis proyectos te resultó interesante, no dudes en contactarme o seguirme en mis redes profesionales.
+</p>
+
+
