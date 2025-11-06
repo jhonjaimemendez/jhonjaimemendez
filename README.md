@@ -1,7 +1,7 @@
 ## 👋 Hola, soy Jhon Jaime Mendez
 
 <p align="justify">
-Soy <strong>ingeniero de sistemas, integrador, arquitecto y desarrollador fullstack</strong> con más de 15 años de experiencia construyendo soluciones tecnológicas orientadas a la <strong>integración de sistemas</strong>, <strong>automatización de procesos</strong> y <strong>analítica de datos</strong>. Combino la <strong>ejecución técnica profunda</strong> con una <strong>visión arquitectónica y consultiva</strong>, ayudando a las organizaciones a diseñar e implementar plataformas escalables, medibles y sostenibles.
+Soy <strong>Ingeniero de Sistemas</strong>, <strong>Especialista en Redes</strong> y <strong>Magister en Software Libre</strong>, con más de 15 años de experiencia construyendo soluciones tecnológicas orientadas a la <strong>integración de sistemas</strong>, <strong>automatización de procesos</strong> y <strong>analítica de datos</strong>. Combino la <strong>ejecución técnica profunda</strong> con una <strong>visión arquitectónica y consultiva</strong>, ayudando a las organizaciones a diseñar e implementar plataformas escalables, medibles y sostenibles.
 </p>
 
 <p align="justify">
